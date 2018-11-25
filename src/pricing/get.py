@@ -3,7 +3,7 @@
 import argparse
 import common.config
 import common.args
-from .view import price_to_string
+from view import price_to_string
 import time
 
 
